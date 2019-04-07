@@ -5,9 +5,9 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 60  # Order that this section will appear.
+weight = 70  # Order that this section will appear.
 
-title = "Dameafdelingen"
+title = "Tilmeld"
 subtitle = ""
 
 [content]
@@ -66,13 +66,16 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+
+
+
 +++
-| Række   | Træner                                                              | Træningstid                                                       |
-|---------|---------------------------------------------------------------------|-------------------------------------------------------------------|
-| 3. Division | <p>Adam Ceesay<br/>Tlf.: 41 27 27 27<br/> E-mail: adac747@gmail.com</p>Rene Svaneborg<br/>Tlf: 40 17 33 93<br/>E-mail: renesvaneborg@hotmail.com | Tirsdag: Kl. 18.30-20.00 (Hal 1)<br/>Torsdag: Kl. 19.30-21.00 (Hal 2) |
-| Serie 1 | Katrine Holm<br/>Tlf.: 22 44 89 04<br/>E-mail: trunte0904@gmail.com | Tirsdag: Kl. 18.30-20.00 (Hal 1)<br/>Torsdag: Kl. 19.30-21.00 (Hal 2) |
-| Serie 1 | <p>Tommy Kejlstrup<br/>Tlf.: 25 14 59 97<br/>E-mail: tommyhaandbold@gmail.com</p>Per Henriksen (Hjælpetræner)<br/>Tlf.: 22 37 68 43<br/>E-mail: halv90@yahoo.dk | Tirsdag: Kl. 20.00-21.30 (Hal 1)<br/>Torsdag: Kl. 21.00-22.30 (Hal 2) |
-| Serie 2 | Jannie Møller<br/>Tlf.: 20 95 05 02<br/>E-mail: Jannie1706@gmail.com |  |
-| Serie 2 | Susanne Raaby<br/>Tlf.: 20 12 40 25<br/>E-mail: susanneraaby@gmail.com | Tirsdag: Kl. 20.00-21.30 (Hal 1)<br/>Torsdag:Kl 21.00-22.30 (Hal 2) |
-| Serie 3 | Kristian Jensen<br/>Tlf.: 51 72 19 17<br/>E-mail: k.utter@hotmail.com | Tirsdag: Kl. 19.30 -21.00 (Hal 2)<br/>Onsdag: kl 18.00-19.30 (Hal 1) |
-| Serie 3 | <p>Tommy Kejlstrup<br/>Tlf.: 25 14 59 97<br/>E-mail: tommyhaandbold@gmail.com</p>Michael Andersen (Hjælpetræner)<br/>Tlf.: 42 48 42 62<br/>E-mail: michaelandersen3@hotmail.com | Tirsdag: Kl. 19.30-21.00 (Hal 2)<br/>Onsdag: Kl. 18.00-19.30 (Hal 1) |
+
+Klik på det hold du gerne vil deltage på i listen til venstre.
+Klik på knappen "Tilmeld" i det grå felt.
+Indtast deltagerens oplysninger eller indtast brugernavn og adgangskode, hvis du har modtaget et.
+Det er meget vigtigt at indtaste mobilnr og e-mail adresse.
+Melder du dit barn til er det meget vigtig at det er barnets personlige oplysninger og din egen e-mail adresse.
+Klik "Tilmeld" og følg vejledningen.
+Du modtager nu en mail som bekræftelse, der også indeholder en adgangskode du fremover kan bruge ved tilmeldinger.
+

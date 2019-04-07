@@ -58,15 +58,15 @@ role = "Vestbyens håndbold klub"
   icon_pack = "fas"
   link = "#contact"  # For a direct email link, use "mailto:test@example.org".
 
-#[[social]]
-#  icon = "twitter"
-#  icon_pack = "fab"
-#  link = "https://twitter.com/GeorgeCushen"
-
 [[social]]
   icon = "facebook"
   icon_pack = "fab"
   link = "https://facebook.com/ik1919"
+
+[[social]]
+  icon = "futbol"
+  icon_pack = "far"
+  link = "https://haandbold.dk/foreninger/forening/15604/kampprogram"
 
 #[[social]]
 #  icon = "google-scholar"

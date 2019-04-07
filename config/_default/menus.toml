@@ -22,11 +22,17 @@
   name = "Herrer"
   url = "/Herre/"
   weight = 45
-#
-#[[main]]
-#  name = "Tutorials"
-#  url = "/tutorial/"
-#  weight = 50
+
+[[main]]
+  name = "Tilmeld"
+  url = "/tilmeld/"
+  weight = 50
+
+
+[[main]]
+  name = "Sponsorer"
+  url = "/sponsorer/"
+  weight = 55
 
 [[main]]
   name = "Kontakt"

@@ -69,6 +69,5 @@ IK1919 byder altid nye spillere velkommen, så hvis du er interesseret i at star
 
 Du kan se kontaktoplysninger og træningstider her:
 
-Dameafdeling
-
-Herreafdeling
+| [Dameafdeling]({{< ref "/damer/index.md" >}}) | [Herreafdeling]({{< ref "/herre/index.md" >}}) |
+| --- | --- |

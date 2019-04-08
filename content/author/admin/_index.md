@@ -91,4 +91,4 @@ Idrætsklubben 1919 er vel nok Aalborgs største håndboldklub, hvad angår seni
 
 Klubben er en traditionel Aalborg-klub med en god blanding af unge studerende og aalborgensere, der har været medlemmer gennem en årrække.Vi spiller kamp og træner i Aalborg Stadionhal. Derudover har vi et klubhus lige ved siden af hallen, hvor vi mødes efter træning og kamp til en øl eller sodavand. Klubhuset danner ligeledes ramme for de mange sociale arrangementer, der er at finde i klubben eks. julefrokost.
 
-Kontingent: kr. 850,- pr. halv sæson, fordelt på 2 opkrævninger omkring den 1/10 og den 1/2
+Kontingent: kr. 850,- pr. halv sæson - opkrævning i oktober og febuar.

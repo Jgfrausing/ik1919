@@ -5,9 +5,9 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 1  # Order that this section will appear.
+weight = 10  # Order that this section will appear.
 
-title = "Dameafdelingen"
+title = "Bestyrelsen"
 subtitle = ""
 
 [content]
@@ -38,8 +38,7 @@ subtitle = ""
   #   4 = Citation (publication only)
   view = 3
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
-  
+  columns = "1"  
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
@@ -65,15 +64,11 @@ subtitle = ""
  css_style = ""
  
  # CSS class.
- css_class = ""
+ css_class = "" 
 +++
-
-| Række   | Træner                                                              | Træningstid                                                       |
-|---------|---------------------------------------------------------------------|-------------------------------------------------------------------|
-| 3. Division | <p>Adam Ceesay<br/>Tlf.: 41 27 27 27<br/> E-mail: adac747@gmail.com</p>Rene Svaneborg<br/>Tlf: 40 17 33 93<br/>E-mail: renesvaneborg@hotmail.com | Tirsdag: Kl. 18.30-20.00 (Hal 1)<br/>Torsdag: Kl. 19.30-21.00 (Hal 2) |
-| Serie 1 | Katrine Holm<br/>Tlf.: 22 44 89 04<br/>E-mail: trunte0904@gmail.com | Tirsdag: Kl. 18.30-20.00 (Hal 1)<br/>Torsdag: Kl. 19.30-21.00 (Hal 2) |
-| Serie 1 | <p>Tommy Kejlstrup<br/>Tlf.: 25 14 59 97<br/>E-mail: tommyhaandbold@gmail.com</p>Per Henriksen (Hjælpetræner)<br/>Tlf.: 22 37 68 43<br/>E-mail: halv90@yahoo.dk | Tirsdag: Kl. 20.00-21.30 (Hal 1)<br/>Torsdag: Kl. 21.00-22.30 (Hal 2) |
-| Serie 2 | Jannie Møller<br/>Tlf.: 20 95 05 02<br/>E-mail: Jannie1706@gmail.com |  |
-| Serie 2 | Susanne Raaby<br/>Tlf.: 20 12 40 25<br/>E-mail: susanneraaby@gmail.com | Tirsdag: Kl. 20.00-21.30 (Hal 1)<br/>Torsdag:Kl 21.00-22.30 (Hal 2) |
-| Serie 3 | Kristian Jensen<br/>Tlf.: 51 72 19 17<br/>E-mail: k.utter@hotmail.com | Tirsdag: Kl. 19.30 -21.00 (Hal 2)<br/>Onsdag: kl 18.00-19.30 (Hal 1) |
-| Serie 3 | <p>Tommy Kejlstrup<br/>Tlf.: 25 14 59 97<br/>E-mail: tommyhaandbold@gmail.com</p>Michael Andersen (Hjælpetræner)<br/>Tlf.: 42 48 42 62<br/>E-mail: michaelandersen3@hotmail.com | Tirsdag: Kl. 19.30-21.00 (Hal 2)<br/>Onsdag: Kl. 18.00-19.30 (Hal 1) |
+| Funktion    | Kontaktoplysninger |
+|-------------|--------------------|
+| Formand     | Kathrine Holm Hansen<br/>Tlf. 22 44 89 04<br/>E-mail: trunte0904@gmail.com                   |
+| Næstformand | Philip Kjærgaard<br/>Tlf.: 52 40 42 72<br/>E-mail: pk@johnfrandsen.dk                   |
+| Sekretær    | Sarah Vich Pedersen<br/>Tlf.: 22 52 59 96<br/>E-mail: vich88@gmail.com                   |
+| Seniorudvalgsformand   | Rasmus Møller<br/>Tlf.: 25 11 06 78<br/>E-mail: rm.aalborg@invita.dk                   |

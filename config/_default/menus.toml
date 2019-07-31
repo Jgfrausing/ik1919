@@ -1,8 +1,8 @@
 
-[[main]]
-  name = "Velkommen"
-  url = "#about"
-  weight = 10
+#[[main]]
+#  name = "Velkommen"
+#  url = "#about"
+#  weight = 10
 
 [[main]]
   name = "Ny Spiller?"
@@ -11,26 +11,31 @@
 
 [[main]]
   name = "Damer"
-  url = "/Damer/"
+  url = "#damer"
   weight = 40
 
 [[main]]
   name = "Herrer"
-  url = "/Herre/"
+  url = "#herre"
   weight = 45
 
-[[main]]
-  name = "Tilmeld"
-  url = "/tilmeld/"
-  weight = 50
 
-
-[[main]]
-  name = "Sponsorer"
-  url = "/sponsorer/"
-  weight = 55
 
 [[main]]
   name = "Kontakt"
   url = "#contact"
   weight = 60
+
+
+#################
+
+
+[[main_right]]
+  name = "Tilmeld"
+  url = "/tilmeld/"
+  weight = 50
+
+[[main_right]]
+  name = "Sponsorer"
+  url = "/sponsorer/"
+  weight = 55

@@ -1,0 +1,6 @@
+TODO
+
+Fix relative size slider
+force 4 people per row
+get mail for contact
+Allow payments

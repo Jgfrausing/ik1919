@@ -19,6 +19,11 @@
   url = "#herre"
   weight = 45
 
+[[main]]
+  name = "Bestyrelsen"
+  url = "#bestyrelsen"
+  weight = 46
+
 
 
 [[main]]

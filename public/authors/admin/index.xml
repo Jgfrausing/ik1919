@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>admin on IK1919</title>
+    <link>/authors/admin/</link>
+    <description>Recent content in admin on IK1919</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/author/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/author/admin/</guid>
+      <description>Idrætsklubben 1919 er vel nok Aalborgs største håndboldklub, hvad angår seniorhold. Klubben har tre herrehold som alle spiller i serie 2. Kvindesiden er den største i klubben, som består af syv hold med 1. holdet i 3. division, mens resten af holdene er fordelt ud over de lokale serier fra serie 1 til serie 4.
+Klubben er en traditionel Aalborg-klub med en god blanding af unge studerende og aalborgensere, der har været medlemmer gennem en årrække.</description>
+    </item>
+    
+  </channel>
+</rss>

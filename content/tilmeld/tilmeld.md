@@ -2,7 +2,7 @@
 # A Recent Blog Posts section created with the Pages widget.
 # This section displays recent blog posts from `content/post/`.
 
-widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "payment"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
@@ -67,15 +67,17 @@ subtitle = ""
  # CSS class.
  css_class = ""
 
-
-
 +++
 
-Klik på det hold du gerne vil deltage på i listen til venstre.
-Klik på knappen "Tilmeld" i det grå felt.
-Indtast deltagerens oplysninger eller indtast brugernavn og adgangskode, hvis du har modtaget et.
+Vælg spillerens hold i menuen nedenunder, og klik på knappen "Tilmeld".
+
+Indtast spilleroplysninger eller indtast brugernavn og adgangskode, hvis du har modtaget et.
 Det er meget vigtigt at indtaste mobilnr og e-mail adresse.
+
 Melder du dit barn til er det meget vigtig at det er barnets personlige oplysninger og din egen e-mail adresse.
-Klik "Tilmeld" og følg vejledningen.
+
 Du modtager nu en mail som bekræftelse, der også indeholder en adgangskode du fremover kan bruge ved tilmeldinger.
 
+Indbetalte beløb kan som udgangspunkt ikke refunderes, med mindre andet er anført i beskrivelsen om det enkelte hold/aktivitet. Indbetalte beløb refunderes kun i særlige tilfælde, og kun efter aftale med den ansvarlige leder. Det fulde beløb hæves på betalerens konto med det samme.
+
+Der modtages betaling fra flg. korttyper: Dankort og Visa Dankort.

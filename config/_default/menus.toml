@@ -5,11 +5,6 @@
 #  weight = 10
 
 [[main]]
-  name = "Ny Spiller?"
-  url = "#new-player"
-  weight = 20
-
-[[main]]
   name = "Damer"
   url = "#damer"
   weight = 40
@@ -24,7 +19,10 @@
   url = "#bestyrelsen"
   weight = 46
 
-
+[[main]]
+  name = "Træningstider"
+  url = "#traeningstider"
+  weight = 50
 
 [[main]]
   name = "Kontakt"

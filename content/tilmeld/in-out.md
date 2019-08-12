@@ -67,7 +67,7 @@ subtitle = ""
 +++
 Alle medlemmer, nye som gamle, som ikke har udfyldt indmeldelsesblanket sidste år, skal udfylde en indmeldelsesblanket.
 
-Du kan finde blanketten [her](http://files.aalborgik1919.webnode.com/200000126-278d028870/Indmeldesesblanket%20IK%201919.docx)
+Du kan finde blanketten [her!](/Indmeldesesblanket.docx)
 
 Som ny spiller har man 14 dages prøvetræning. Du må kun deltage i alm. træning, indtil du er indmeldt.
 

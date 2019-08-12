@@ -791,6 +791,7 @@ ul.ul-edu li .description p.institution {
   height: auto;
 }
 
+
 @media (min-width: 576px) {
   .people-widget  .col-sm-auto {
     max-width: 30% !important;

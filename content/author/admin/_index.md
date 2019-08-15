@@ -92,8 +92,8 @@ role = "Vestbyens håndbold klub"
 
 +++
 
-Idrætsklubben 1919 er vel nok Aalborgs største håndboldklub, hvad angår seniorhold. Klubben har tre herrehold som alle spiller i serie 2. Kvindesiden er den største i klubben, som består af syv hold med 1. holdet i 3. division, mens resten af holdene er fordelt ud over de lokale serier fra serie 1 til serie 4.
+Idrætsklubben 1919 er vel nok Aalborgs største håndboldklub, hvad angår seniorhold. Klubben har tre herrehold fordelt over serie 1, 2 og 3. Kvindesiden er den største i klubben, som består af syv hold med 1. holdet i Jyllandsserien, mens resten af holdene er fordelt ud over de lokale serier fra serie 1 til serie 3.
 
-Klubben er en traditionel Aalborg-klub med en god blanding af unge studerende og aalborgensere, der har været medlemmer gennem en årrække.Vi spiller kamp og træner i Aalborg Stadionhal. Derudover har vi et klubhus lige ved siden af hallen, hvor vi mødes efter træning og kamp til en øl eller sodavand. Klubhuset danner ligeledes ramme for de mange sociale arrangementer, der er at finde i klubben eks. julefrokost.
+Klubben er en traditionel Aalborg-klub med en god blanding af unge studerende og aalborgensere, der har været medlemmer gennem en årrække. Vi spiller kamp og træner i Aalborg Stadionhal. Derudover har vi et klubhus lige ved siden af hallen, hvor vi mødes efter træning og kamp til en øl eller sodavand. Klubhuset danner ligeledes ramme for de mange sociale arrangementer, der er at finde i klubben eks. julefrokost.
 
 Kontingent: kr. 850,- pr. halv sæson - opkrævning i oktober og febuar.

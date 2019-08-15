@@ -65,24 +65,21 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-Alle medlemmer, nye som gamle, som ikke har udfyldt indmeldelsesblanket sidste år, skal udfylde en indmeldelsesblanket.
+Alle medlemmer, nye som gamle, som ikke har udfyldt en indmeldelsesblanket sidste år, skal udfylde en indmeldelsesblanket.
 
 Du kan finde blanketten [her!](/Indmeldesesblanket.docx)
 
-Som ny spiller har man 14 dages prøvetræning. Du må kun deltage i alm. træning, indtil du er indmeldt.
+Som ny spiller har man 14 dages prøvetræning. Du må kun deltage i almindelig træning, indtil du er indmeldt.
 
-Har du spillet i en anden klub indenfor de seneste 24 måneder, skal du også indhente dit spillercertifikat fra din tidligere klub.
+Har du spillet i en anden klub inden for de seneste 24 måneder, skal du også indhente dit spillercertifikat fra din tidligere klub.
 
-HUSK hvis du flytter, får nyt telefonnummer eller ny e-mail, så er det vigtigt, at du meddeler os herom. Send en mail til udmeld@ik1919.dk
+HUSK hvis du flytter, får nyt telefonnummer eller ny e-mail, er det vigtigt, at du meddeler os herom. Send en mail til udmeld@ik1919.dk
 
-Udmeldelse kan i henhold til klubbens vedtægter kun ske skriftligt til bestyrelsen på adressen:
-IK1919, Harald Jensensvej 6, 
-9000 Aalborg
-
-eller på e-mail til: udmeld@ik1919.dk
+Udmeldelse kan i henhold til klubbens vedtægter kun ske skriftligt til bestyrelsen på adressen
+IK1919, Harald Jensensvej 6, 9000 Aalborg eller på e-mail til udmeld@ik1919.dk
 
 Udmeldelsen skal være bestyrelsen i hænde forud for kontingentudskrivning og er først gyldig, når evt. skyldigt kontingent er betalt.
 
-**VIGTIGT:** Husk at du skal betale kontingent, indtil den skriftlige udmeldelse foreligger bestyrelsen, og udmeldelsen er først gyldig, når evt. restance er betalt.
+**VIGTIGT:** Husk, at du skal betale kontingent, indtil den skriftlige udmeldelse foreligger bestyrelsen, og udmeldelsen er først gyldig, når evt. restance er betalt.
 
 Husk også at skrive, hvis du har brug for at få sendt dit spillercertifikat.

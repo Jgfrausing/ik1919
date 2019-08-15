@@ -8,9 +8,9 @@
       {{ with $st.Title }}<h1>{{ . | markdownify | emojify }}</h1>{{ end }}
       {{ with $st.Params.subtitle }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
       {{ if lt now.Month 6 }}
-      <h2>Betaling for forår {{ $year}}</h2>
+      <h2>Betaling for foråret {{ $year}}</h2>
       {{ else }}
-      <h2>Betaling for efterår {{ $year}}</h2>
+      <h2>Betaling for efteråret {{ $year}}</h2>
       {{ end }}
       {{ $st.Content }}
     </div>

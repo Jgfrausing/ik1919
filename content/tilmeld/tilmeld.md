@@ -72,12 +72,12 @@ subtitle = ""
 Vælg spillerens hold i menuen nedenunder, og klik på knappen "Tilmeld".
 
 Indtast spilleroplysninger eller indtast brugernavn og adgangskode, hvis du har modtaget et.
-Det er meget vigtigt at indtaste mobilnr og e-mail adresse.
+Det er meget vigtigt at indtaste mobilnr. og e-mailadresse.
 
-Melder du dit barn til er det meget vigtig at det er barnets personlige oplysninger og din egen e-mail adresse.
+Melder du dit barn til, er det meget vigtig, at det er barnets personlige oplysninger og din egen e-mailadresse.
 
-Du modtager nu en mail som bekræftelse, der også indeholder en adgangskode du fremover kan bruge ved tilmeldinger.
+Du modtager nu en mail som bekræftelse, der også indeholder en adgangskode, som du fremover kan bruge ved tilmeldinger.
 
-Indbetalte beløb kan som udgangspunkt ikke refunderes, med mindre andet er anført i beskrivelsen om det enkelte hold/aktivitet. Indbetalte beløb refunderes kun i særlige tilfælde, og kun efter aftale med den ansvarlige leder. Det fulde beløb hæves på betalerens konto med det samme.
+Det indbetalte beløb kan som udgangspunkt ikke refunderes, med mindre andet er anført i beskrivelsen om det enkelte hold/aktivitet. Det indbetalte beløb refunderes kun i særlige tilfælde og kun efter aftale med den ansvarlige leder. Det fulde beløb hæves på betalerens konto med det samme.
 
 Der modtages betaling fra flg. korttyper: Dankort og Visa Dankort.

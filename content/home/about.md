@@ -26,7 +26,7 @@ author = "admin"
   # gradient_end = "SkyBlue"
   
   # Background image.
-  image = "oprykningsbillede.jpg"  # Name of image in `static/img/`.
+  image = "gruppefoto.jpg"  # Name of image in `static/img/`.
   opaque = 0  # Opaque the image? Range 0-1 where 0 is transparent and 1 is opaque.
   light = 1
   # Text color (true=light or false=dark).

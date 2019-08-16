@@ -67,7 +67,7 @@ subtitle = ""
 +++
 Alle medlemmer, nye som gamle, som ikke har udfyldt en indmeldelsesblanket sidste år, skal udfylde en indmeldelsesblanket.
 
-Du kan finde blanketten [her!](/Indmeldesesblanket.docx)
+Du kan finde blanketten [her!](/Indmeldelsesblanket.docx)
 
 Som ny spiller har man 14 dages prøvetræning. Du må kun deltage i almindelig træning, indtil du er indmeldt.
 

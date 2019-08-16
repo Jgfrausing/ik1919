@@ -123,14 +123,14 @@ h4, h5, h6 {
 
 a,
 h3.article-title a:hover {
-  color: #3f51b5;
+  color: rgb(30, 30, 60);
   text-decoration: none;
   transition: color 0.6s ease;
 }
 
 a:hover,
 a:focus {
-  color: #3f51b5;
+  color: rgb(30, 30, 60);
 }
 
 img,
@@ -388,8 +388,8 @@ small,
 }
 
 .form-control:focus {
-  border-color: #3f51b5;
-  box-shadow: 0 0 0 .2rem #757de8;
+  border-color: rgb(30, 30, 60);
+  box-shadow: 0 0 0 .2rem rgb(30, 30, 60);
 }
 
 /*************************************************
@@ -550,11 +550,11 @@ a[data-fancybox] img {
 }
 
 .dark .home-section {
-  background-color: hsla(231, 15%, 18%, 1);
+  background-color: rgb(255, 255, 255);
 }
 
 .dark .home-section:nth-of-type(even) {
-  background-color: hsla(231, 15%, 16%, 1);
+  background-color: rgb(247, 247, 247);
 }
 
 @media screen and (max-width: 768px) {
@@ -632,7 +632,7 @@ a[data-fancybox] img {
 }
 
 .wg-hero .btn {
-  color: #002984;
+  color: rgb(30, 30, 60);
   padding: .6em 2.1em;
 }
 
@@ -693,7 +693,7 @@ a.hero-cta-alt:hover {
 .featurette-icon {
   display: block;
   width: 100%;
-  color: #3f51b5;
+  color: rgb(30, 30, 60);
   font-size: 3rem;
   text-align: center;
 }
@@ -804,6 +804,7 @@ ul.ul-edu li .description p.institution {
   max-width: 200px;
   height: auto;
 }
+
 
 @media (min-width: 576px) {
   .people-widget  .col-sm-auto {
@@ -1030,7 +1031,7 @@ article .article-metadata {
 }
 
 .article-metadata a:hover {
-  color: #3f51b5;
+  color: rgb(30, 30, 60);
 }
 
 .middot-divider {
@@ -1283,11 +1284,11 @@ article .article-metadata {
 
 .experience .m-2 .border,
 .experience .col.border-right {
-  border-color: #3f51b5 !important;
+  border-color: rgb(30, 30, 60) !important;
 }
 
 .experience .m-2 .border.exp-fill {
-  background-color: #3f51b5 !important;
+  background-color: rgb(30, 30, 60) !important;
 }
 
 /*************************************************
@@ -1612,14 +1613,14 @@ a.badge:hover {
 .tag-cloud a:active,
 .tag-cloud a:focus,
 .tag-cloud a:hover {
-  color: #002984;
+  color: rgb(30, 30, 60);
   transform: scale(1.2);
 }
 
 .dark .tag-cloud a:active,
 .dark .tag-cloud a:focus,
 .dark .tag-cloud a:hover {
-  color: #757de8;
+  color: rgb(30, 30, 60);
 }
 
 /*************************************************
@@ -1649,13 +1650,13 @@ a.badge:hover {
  **************************************************/
 
 .btn-primary {
-  border-color: #3f51b5;
-  background: #3f51b5;
+  border-color: rgb(30, 30, 60);
+  background: rgb(30, 30, 60);
 }
 
 .btn-outline-primary {
-  border-color: #3f51b5;
-  color: #3f51b5;
+  border-color: rgb(30, 30, 60);
+  color: rgb(30, 30, 60);
 }
 
 .btn-primary:hover,
@@ -1663,7 +1664,7 @@ a.badge:hover {
 .btn-primary.active,
 .btn-primary:visited,
 .open > .dropdown-toggle.btn-primary {
-  background: #3f51b5;
+  background: rgb(30, 30, 60);
 }
 
 .btn-outline-light:hover,
@@ -1676,8 +1677,8 @@ a.badge:hover {
 .btn-outline-primary:not(:disabled):not(.disabled):active,
 .show > .btn-outline-primary.dropdown-toggle {
   color: #fff;
-  background-color: #3f51b5;
-  border-color: #3f51b5;
+  background-color: rgb(30, 30, 60);
+  border-color: rgb(30, 30, 60);
 }
 
 .dark .btn-outline-primary:not(:disabled):not(.disabled).active,
@@ -1688,8 +1689,8 @@ a.badge:hover {
 
 .btn-outline-primary:hover {
   color: #fff;
-  background-color: #3f51b5;
-  border-color: #3f51b5;
+  background-color: rgb(30, 30, 60);
+  border-color: rgb(30, 30, 60);
 }
 
 .dark .btn-outline-primary:hover {
@@ -1716,18 +1717,18 @@ a.badge:hover {
 
 .btn-toolbar .btn.btn-primary:hover,
 .btn-toolbar .btn.btn-primary:focus {
-  background-color: #757de8 !important;
+  background-color: rgb(30, 30, 60) !important;
 }
 
 .btn-toolbar .btn.btn-primary:active,
 .btn-toolbar .btn.btn-primary.active {
-  background-color: #002984 !important;
+  background-color: rgb(30, 30, 60) !important;
 }
 
 .btn-primary:not(:disabled):not(.disabled).active:focus,
 .btn-primary:not(:disabled):not(.disabled):active:focus,
 .show > .btn-primary.dropdown-toggle:focus {
-  box-shadow: 0 0 0 .2rem #757de8;
+  box-shadow: 0 0 0 .2rem rgb(30, 30, 60);
 }
 
 /*************************************************
@@ -1739,7 +1740,7 @@ a.badge:hover {
 }
 
 .navbar-light {
-  background: #3f51b5 !important;
+  background: rgb(30, 30, 60) !important;
   box-shadow: 0 0.125rem 0.25rem 0 rgba(0,0,0,.11)
 }
 
@@ -1806,7 +1807,7 @@ nav#navbar-main li.nav-item {
 }
 
 .dropdown-menu {
-  background-color: #3f51b5 !important;
+  background-color: rgb(30, 30, 60) !important;
 }
 
 .dropdown-menu > li > a {
@@ -1823,13 +1824,13 @@ nav#navbar-main li.nav-item {
 .dropdown-menu>li>a:hover {
   color: #8c9eff;
   text-decoration: none;
-  background-color: #3f51b5;
+  background-color: rgb(30, 30, 60);
 }
 
 .dropdown-menu > .active,
 .dropdown-menu > .active:focus,
 .dropdown-menu > .active:hover {
-  color: #3f51b5;
+  color: rgb(30, 30, 60);
   text-decoration: none;
   background-color: #8c9eff;
   outline: 0;
@@ -1840,7 +1841,7 @@ nav#navbar-main li.nav-item {
 .navbar-light .navbar-nav>.open>a:hover,
 .navbar-light .navbar-nav>.open>a:visited {
   color: #fff !important;
-  background-color: #3f51b5 !important;
+  background-color: rgb(30, 30, 60) !important;
 }
 
 .navbar-light .navbar-brand {
@@ -2093,8 +2094,8 @@ div.alert a {
 }
 
 .docs-search .form-control:focus {
-  border-color: #3f51b5;
-  box-shadow: 0 0 0 3px #757de8;
+  border-color: rgb(30, 30, 60);
+  box-shadow: 0 0 0 3px rgb(30, 30, 60);
 }
 
 /* Docs sidebar. */
@@ -2159,7 +2160,7 @@ div.alert a {
 .docs-sidebar .nav>.active:hover>a,
 .docs-sidebar .nav>.active>a {
   font-weight: bold;
-  color: #3f51b5;
+  color: rgb(30, 30, 60);
   background-color: transparent;
 }
 
@@ -2168,7 +2169,7 @@ div.alert a {
 .docs-toggle {
   line-height: 1;
   font-size: 1.2rem;
-  color: #3f51b5;
+  color: rgb(30, 30, 60);
   background-color: transparent;
 }
 
@@ -2285,7 +2286,7 @@ ul.toc-top {
 
 #TableOfContents li a:hover,
 .toc-top li a:hover {
-  color: #3f51b5;
+  color: rgb(30, 30, 60);
   text-decoration: none;
 }
 
@@ -2293,12 +2294,12 @@ ul.toc-top {
 
 .anchorjs-link {
   font-weight: 400;
-  color: #002984;
+  color: rgb(30, 30, 60);
   transition: color .16s linear;
 }
 
 .anchorjs-link:hover {
-  color: #3f51b5;
+  color: rgb(30, 30, 60);
   text-decoration: none;
 }
 
@@ -2323,8 +2324,8 @@ body.dark,
 
 .dark .form-control:focus {
   background-color: rgb(68, 71, 90);
-  border-color: #3f51b5;
-  box-shadow: 0 0 0 .2rem #002984;
+  border-color: rgb(30, 30, 60);
+  box-shadow: 0 0 0 .2rem rgb(30, 30, 60);
 }
 
 .dark h1,
@@ -2356,7 +2357,7 @@ body.dark,
 }
 
 .dark ul.share li a {
-  background-color: #3f51b5;
+  background-color: rgb(30, 30, 60);
 }
 
 .dark table table {
@@ -2409,7 +2410,7 @@ body.dark,
 }
 
 .dark .card h4 a {
-  color: #3f51b5;
+  color: rgb(30, 30, 60);
   border-bottom: solid 1px transparent;
 }
 

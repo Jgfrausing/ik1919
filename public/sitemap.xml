@@ -92,6 +92,40 @@
   
     <url>
     
+      <loc>/tags/fest/</loc>
+      <lastmod>2019-08-28T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/</loc>
+      <lastmod>2019-08-28T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/project/100year/</loc>
+      <lastmod>2019-08-28T00:00:00+02:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/project/</loc>
+      <lastmod>2019-08-28T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/</loc>
+      <lastmod>2019-08-28T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>/author/admin/</loc>
     </url>
   
@@ -135,19 +169,7 @@
   
     <url>
     
-      <loc>/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
       <loc>/publication_types/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/tags/</loc>
       <priority>0</priority>
     </url>
   

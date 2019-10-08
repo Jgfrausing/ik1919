@@ -8,7 +8,7 @@ superuser = false
 # Role/position
 role = "Seniorudvalgsformand"
 
-email = "bbi@totaladministration.dk"
+email = "rm.aalborg@invita.dk"
 
 hold = ""
 

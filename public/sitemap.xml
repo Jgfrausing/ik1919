@@ -62,7 +62,7 @@
   
     <url>
     
-      <loc>/author/bjarne_bilenberg_bestyrelse/</loc>
+      <loc>/author/jannie_moller_bestyrelse/</loc>
     </url>
   
     <url>
@@ -126,6 +126,11 @@
   
     <url>
     
+      <loc>/foreningsmotion/index/</loc>
+    </url>
+  
+    <url>
+    
       <loc>/sponsorer/</loc>
     </url>
   
@@ -154,6 +159,12 @@
     <url>
     
       <loc>/categories/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/foreningsmotion/</loc>
       <priority>0</priority>
     </url>
   

@@ -7,7 +7,7 @@
 # date = 2019-08-28T00:00:00
 
 # Project summary to display on homepage.
-summary = "IK1919 byder på sjov og spændende foreningsmotion for unge og voksne i alle aldre. Hvis det virker som noget for dig, så kontakt Adama på 41 41 41 83."
+summary = "IK1919 byder på sjov og spændende foreningsmotion for unge og voksne i alle aldre. Hvis det virker som noget for dig, så kontakt Adama på 41 41 41 83. Der er gratis indmeldelse i gruppen og gratis deltagelse på hold til årsskiftet."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

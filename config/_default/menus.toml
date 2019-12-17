@@ -45,5 +45,5 @@
 
 [[main_right]]
   name = "Sponsorer"
-  url = "/sponsorer/"
+  url = "#sponsors"
   weight = 55

@@ -10,7 +10,7 @@ role = "Kontaktperson"
 
 email = "rm.aalborg@invita.dk"
 
-hold = "Serie 3"
+hold = "Serie 4"
 
 # Organizational groups that you belong to (for People widget)
 user_groups = ["Herre"]

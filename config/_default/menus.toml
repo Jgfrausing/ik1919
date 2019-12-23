@@ -36,12 +36,15 @@
 
 
 #################
-
+[[main_right]]
+  name = "Vedtægter"
+  url = "documents/IK 1919 vedtægter.pdf"
+  weight = 50
 
 [[main_right]]
   name = "Tilmeld"
   url = "/tilmeld/"
-  weight = 50
+  weight = 51
 
 [[main_right]]
   name = "Sponsorer"

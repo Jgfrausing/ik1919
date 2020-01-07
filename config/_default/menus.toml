@@ -24,10 +24,10 @@
   url = "#traeningstider"
   weight = 50
 
-[[main]]
-  name = "Foreningsmotion"
-  url = "#documents"
-  weight = 55
+#[[main]]
+#  name = "Foreningsmotion"
+#  url = "#documents"
+#  weight = 55
 
 [[main]]
   name = "Kontakt"

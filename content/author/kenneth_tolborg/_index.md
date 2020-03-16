@@ -15,7 +15,7 @@ hold = "Serie 1"
 # Organizational groups that you belong to (for People widget)
 user_groups = ["Herre"]
 
-tlf = "93 39 74 97"
+tlf = "22 32 97 73"
 
 weight = 1
 +++

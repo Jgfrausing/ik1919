@@ -17,5 +17,5 @@ user_groups = ["Damer"]
 
 tlf = "40 80 17 68"
 
-weight = 3
+weight = 2
 +++

@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Kasper Ploug Jensen"
+name = "Trine Nitzsch Pedersen"
 
 # Is this the primary user of the site?
 superuser = false
@@ -8,13 +8,14 @@ superuser = false
 # Role/position
 role = "Træner"
 
-email = "kasperplougjesen@hotmail.com"
+email = "trine_nitzsch@hotmail.com"
 
-hold = "Serie 2"
+hold = "Serie 3"
 
 # Organizational groups that you belong to (for People widget)
 user_groups = ["Damer"]
 
-tlf = "29 24 60 40"
-weight = 3
+tlf = "28 34 93 42"
+
+weight = 6
 +++

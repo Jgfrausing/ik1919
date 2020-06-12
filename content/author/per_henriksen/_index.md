@@ -10,10 +10,11 @@ role = "Hjælpetræner"
 
 email = "halv90@yahoo.dk"
 
-hold = "Serie 1"
+hold = "Jyllandsserie"
 
 # Organizational groups that you belong to (for People widget)
-user_groups = ["None"]
+user_groups = ["Herre"]
 
 tlf = "22 37 68 43"
+weight = 2
 +++

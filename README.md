@@ -1,42 +1,40 @@
-# [Academic Kickstart](https://sourcethemes.com/academic/)
+# [IK1919](www.ik1919.dk)
+Siden er udviklet med [Hugo](https://gohugo.io/), som er template baseret styling til statiske hjemmesider.
+Templaten brugt er [Academic Kickstart](https://sourcethemes.com/academic/) med modificationer.
 
-**Academic** makes it easy to create a beautiful website for free using Markdown, Jupyter, or RStudio. Customize anything on your site with widgets, themes, and language packs. [Check out the latest demo](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the showcase](https://sourcethemes.com/academic/#expo).
+Der er mange fordele ved Hugo:
+- En færdigtdesignet template gør, at vi ikke skal stå for den kunstneriske del af at lave en hjemmeside
+- Styling kan genbruges ved f.eks. trænere og bestyrelses medlemmer
+- Templaten er kun et forslag, hvilket betyder, at vi kan let kan lave ændringer deri (f.eks. baggrunds billedet)
+- Både MarkDown og HTML kan anvendes til styling
 
-**Academic Kickstart** provides a minimal template to kickstart your new website.
+## Installation af Hugo
+### Windows
+1. [Download version 56.3 from this link](https://github.com/gohugoio/hugo/releases/download/v0.56.3/hugo_extended_0.56.3_Windows-64bit.zip)
+2. Create the folder `C:\Hugo\bin` and extract the downloaded content into it
+3. Tilføj `C:\Hugo\bin` til `Systemvariabler`
+    - Højreklik `Denne Computer` og klik `Egenskaber`
+    - Klik `Avanceret systemindstilling` og derefter `Miljøvariabler` 
+    - Under `Systemvariabler` dobbeltklik på variablen `Path` og tryk `Ny`
+    - Skriv `C:\Hugo\bin` i feltet og tryk `OK`
 
-- [**Get Started**](#install)
-- [View the documentation](https://sourcethemes.com/academic/docs/)
-- [Ask a question](http://discuss.gohugo.io/)
-- [Request a feature or report a bug](https://github.com/gcushen/hugo-academic/issues)
-- Updating? View the [Update Guide](https://sourcethemes.com/academic/docs/update/) and [Release Notes](https://sourcethemes.com/academic/updates/)
-- Support development of Academic:
-  - [Donate a coffee](https://paypal.me/cushen)
-  - [Become a backer on Patreon](https://www.patreon.com/cushen)
-  - [Decorate your laptop or journal with an Academic sticker](https://www.redbubble.com/people/neutreno/works/34387919-academic)
-  - [Wear the T-shirt](https://academic.threadless.com/)
+### Linux og Mac
+1. Åben terminal og kør `brew install hugo`
+    - Brew kan installeres til Linux ([se link](https://docs.brew.sh/Homebrew-on-Linux))
 
-[![Screenshot](https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png)](https://github.com/gcushen/hugo-academic/)
+## Download projektet
+1. Åben en terminal og kør: `git clone https://github.com/Jgfrausing/ik1919.git`
 
-## Install
+## Se ændringer lokalt:
+1. Åben mappen ik1919, højreklik deri og tryk `Åben i terminal`
+2. Indtast `hugo server` og tryk enter
+    - Nederst i terminalen vil der stå `Web Server is available at //localhost:1313/ (bind address 127.0.0.1)`
+3. Åben en browser og skriv `//localhost:1313/` (den adresse der står i terminalen)
 
-You can choose from one of the following four methods to install:
+## Opload nye ændringer til ik1919.dk
+1. Åben mappen ik1919, højreklik deri og tryk `Åben i terminal`
+2. Indtast `hugo` og tryk enter
+    - Dette opretter/overskriver mappen `public`
+3. Forbind til serveren via FileZilla eller ligende og erstat indholdet der med indholdet i `public`
 
-* [**one-click install using your web browser (recommended)**](https://sourcethemes.com/academic/docs/install/#install-with-web-browser)
-* [install on your computer using **Git** with the Command Prompt/Terminal app](https://sourcethemes.com/academic/docs/install/#install-with-git)
-* [install on your computer by downloading the **ZIP files**](https://sourcethemes.com/academic/docs/install/#install-with-zip)
-* [install on your computer with **RStudio**](https://sourcethemes.com/academic/docs/install/#install-with-rstudio)
-
-Then [personalize your new site](https://sourcethemes.com/academic/docs/get-started/).
-
-## Ecosystem
-
-* **[Academic Admin](https://github.com/sourcethemes/academic-admin):** An admin tool to import publications from BibTeX or import assets for an offline site
-* **[Academic Scripts](https://github.com/sourcethemes/academic-scripts):** Scripts to help migrate content to new versions of Academic
-
-## License
-
-Copyright 2017-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/sourcethemes/academic-kickstart/blob/master/LICENSE.md) license.
-
-[![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/academic-kickstart/readme?pixel)](https://github.com/igrigorik/ga-beacon)
+**Husk at pushe ændringerne til github**

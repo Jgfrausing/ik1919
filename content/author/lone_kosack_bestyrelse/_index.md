@@ -1,21 +1,21 @@
 +++
 # Display name
-name = "Rasmus Møller"
+name = "Lone Kosack"
 
 # Is this the primary user of the site?
 superuser = false
 
 # Role/position
-role = "Seniorudvalgsformand"
+role = "Sekretær"
 
-email = "rm.aalborg@invita.dk"
+email = "Lonekosack@gmail.com"
 
 hold = ""
 
 # Organizational groups that you belong to (for People widget)
 user_groups = ["Bestyrelse"]
 
-tlf = "25 11 06 78"
+tlf = "29 36 24 91"
 
-weight = 4
+weight = 3
 +++

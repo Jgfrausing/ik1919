@@ -1,21 +1,21 @@
 +++
 # Display name
-name = "Sarah Vich Pedersen"
+name = "Christian Dam"
 
 # Is this the primary user of the site?
 superuser = false
 
 # Role/position
-role = "Sekretær"
+role = "Formand"
 
-email = "sarah.vich88@gmail.com"
+email = "Cacant10@gmail.com"
 
 hold = ""
 
 # Organizational groups that you belong to (for People widget)
 user_groups = ["Bestyrelse"]
 
-tlf = "22 52 59 96"
+tlf = "25 34 18 52"
 
-weight = 3
+weight = 1
 +++

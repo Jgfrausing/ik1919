@@ -1,21 +1,21 @@
 +++
 # Display name
-name = "Martin Geertsen"
+name = "Kasper Dichmann Knudsen"
 
 # Is this the primary user of the site?
 superuser = false
 
 # Role/position
-role = "Næstformand"
+role = "Seniorudvalgsformand"
 
-email = "martingeertsen94@gmail.com"
+email = "Kasperdknudsen92@hotmail.com"
 
 hold = ""
 
 # Organizational groups that you belong to (for People widget)
 user_groups = ["Bestyrelse"]
 
-tlf = "20 35 50 85"
+tlf = "22 15 51 41"
 
-weight = 2
+weight = 4
 +++

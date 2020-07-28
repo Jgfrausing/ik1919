@@ -6,7 +6,7 @@ name = "Katrine Holm Hansen"
 superuser = false
 
 # Role/position
-role = "Formand"
+role = "Næstformand"
 
 email = "trunte0904@gmail.com"
 
@@ -17,5 +17,5 @@ user_groups = ["Bestyrelse"]
 
 tlf = "22 44 89 04"
 
-weight = 1
+weight = 2
 +++

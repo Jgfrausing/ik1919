@@ -1,4 +1,16 @@
 ---
 label: test
 hide_body: false
-fields: []
+fields:
+- name: test_label
+  type: file
+  config:
+    maxSize: 64
+  label: test label
+  description: avatar
+- name: name
+  type: text
+  config:
+    required: false
+  label: name
+  description: name

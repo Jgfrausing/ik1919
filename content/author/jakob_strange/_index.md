@@ -8,13 +8,13 @@ superuser = false
 # Role/position
 role = "Træner"
 
-email = ""
+email = "jakob_strange@hotmail.dk"
 
 hold = "Serie 4"
 
 # Organizational groups that you belong to (for People widget)
 user_groups = ["Damer"]
 
-tlf = ""
+tlf = "81 71 02 28"
 weight = 5
 +++

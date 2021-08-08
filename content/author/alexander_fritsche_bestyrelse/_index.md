@@ -1,20 +1,20 @@
 +++
 # Display name
-name = "Kasper Ploug Jensen"
+name = "Alexander Fritsche"
 
 # Is this the primary user of the site?
 superuser = false
 
 # Role/position
-role = "Træner"
+role = "Seniorudvalg"
 
-email = "kasperplougjesen@hotmail.com"
+email = "alexander@fritsche.dk"
 
-hold = "Serie 2"
+hold = ""
 
 # Organizational groups that you belong to (for People widget)
-user_groups = ["Damer"]
+user_groups = ["Bestyrelse"]
 
-tlf = "29 24 60 40"
-weight = 3
+tlf = "41 27 17 25"
+weight = 4
 +++

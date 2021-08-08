@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Katrine Holm Hansen"
+name = "Jonathan Højgaard"
 
 # Is this the primary user of the site?
 superuser = false
@@ -8,14 +8,13 @@ superuser = false
 # Role/position
 role = "Træner"
 
-email = "trunte0904@gmail.com"
+email = ""
 
 hold = "Serie 4"
 
 # Organizational groups that you belong to (for People widget)
 user_groups = ["Damer"]
 
-tlf = "22 44 89 04"
-
-weight = 10
+tlf = ""
+weight = 6
 +++

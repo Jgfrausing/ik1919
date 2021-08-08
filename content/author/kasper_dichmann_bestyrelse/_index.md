@@ -6,7 +6,7 @@ name = "Kasper Dichmann Knudsen"
 superuser = false
 
 # Role/position
-role = "Seniorudvalgsformand"
+role = "Bestyrelsesmedlem"
 
 email = "Kasperdknudsen92@hotmail.com"
 
@@ -17,5 +17,5 @@ user_groups = ["Bestyrelse"]
 
 tlf = "22 15 51 41"
 
-weight = 4
+weight = 5
 +++

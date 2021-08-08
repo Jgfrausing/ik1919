@@ -1,21 +1,21 @@
 +++
 # Display name
-name = "Katrine Holm Hansen"
+name = "Thomas Kjær"
 
 # Is this the primary user of the site?
 superuser = false
 
 # Role/position
-role = "Næstformand"
+role = "Træner"
 
-email = "trunte0904@gmail.com"
+email = "Thomas_kjar@hotmail.com"
 
-hold = ""
+hold = "3. Division"
 
 # Organizational groups that you belong to (for People widget)
-user_groups = ["Bestyrelse"]
+user_groups = ["Damer"]
 
-tlf = "22 44 89 04"
+tlf = "52 44 36 17"
 
-weight = 2
+weight = 1
 +++

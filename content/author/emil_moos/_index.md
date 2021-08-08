@@ -1,20 +1,20 @@
 +++
 # Display name
-name = "Per Henriksen"
+name = "Emil Moos"
 
 # Is this the primary user of the site?
 superuser = false
 
 # Role/position
-role = "Hjælpetræner"
+role = "Træner"
 
-email = "halv90@yahoo.dk"
+email = ""
 
-hold = "Jyllandsserie"
+hold = "Serie 4"
 
 # Organizational groups that you belong to (for People widget)
-user_groups = ["Herre"]
+user_groups = ["Damer"]
 
-tlf = "22 37 68 43"
-weight = 2
+tlf = ""
+weight = 7
 +++

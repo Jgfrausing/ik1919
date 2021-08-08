@@ -16,5 +16,5 @@ hold = "Serie 2"
 user_groups = ["Damer"]
 
 tlf = "23 95 23 41"
-weight = 4
+weight = 3
 +++

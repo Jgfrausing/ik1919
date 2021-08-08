@@ -6,7 +6,7 @@ name = "Lone Kosack"
 superuser = false
 
 # Role/position
-role = "Sekretær"
+role = "Næstformand og Sekretær"
 
 email = "Lonekosack@gmail.com"
 
@@ -17,5 +17,5 @@ user_groups = ["Bestyrelse"]
 
 tlf = "29 36 24 91"
 
-weight = 3
+weight = 2
 +++

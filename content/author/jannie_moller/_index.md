@@ -14,5 +14,5 @@ hold = "Koneholdet"
 user_groups = ["Damer"]
 
 tlf = "20 95 05 02"
-weight = 5
+weight = 4
 +++

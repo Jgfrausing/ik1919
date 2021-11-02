@@ -9,7 +9,7 @@ superuser = false
 role = "Træner"
 
 email = "jannie1706@gmail.com"
-hold = "Koneholdet"
+hold = "4. hold / Serie 2"
 # Organizational groups that you belong to (for People widget)
 user_groups = ["Damer"]
 

@@ -10,7 +10,7 @@ role = "Træner"
 
 email = "1973mvj@gmail.com"
 
-hold = "Serie 1"
+hold = "2. hold / Serie 1"
 
 # Organizational groups that you belong to (for People widget)
 user_groups = ["Damer"]

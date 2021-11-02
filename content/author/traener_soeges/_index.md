@@ -6,16 +6,16 @@ name = "Træner søges"
 superuser = false
 
 # Role/position
-role = "Træner"
+role = ""
 
 email = ""
 
-hold = "Jyllandsserie"
+hold = ""
 
 # Organizational groups that you belong to (for People widget)
 user_groups = ["Herre"]
 
 tlf = ""
 
-weight = 1
+weight = 2
 +++

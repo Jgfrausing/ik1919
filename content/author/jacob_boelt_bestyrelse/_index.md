@@ -6,7 +6,7 @@ name = "Jacob Boelt"
 superuser = false
 
 # Role/position
-role = "Træner"
+role = "Sponsorudvalg"
 
 email = "jacobboelt@gmail.com"
 

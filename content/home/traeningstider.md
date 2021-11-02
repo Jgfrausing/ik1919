@@ -39,7 +39,7 @@ subtitle = ""
   view = 2
 
 +++
-Se træningstider for alle hold [her!](img/tider.jpg)
+Se træningstider for alle hold [her!](img/tider.png)
 <p>
 Er du ny spiller? IK1919 byder altid nye spillere velkommen, så hvis du er interesseret i at starte i klubben, kan du kontakte en af trænerne eller blot møde op til træning.
 </p>

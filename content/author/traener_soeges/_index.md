@@ -13,9 +13,9 @@ email = ""
 hold = ""
 
 # Organizational groups that you belong to (for People widget)
-user_groups = ["Herre"]
+user_groups = ["Damer"]
 
 tlf = ""
 
-weight = 2
+weight = 1
 +++

@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Thomas Holm Pedersen"
+name = " Mathias Damsgaard Farsø"
 
 # Is this the primary user of the site?
 superuser = false
@@ -8,14 +8,14 @@ superuser = false
 # Role/position
 role = "Træner"
 
-email = "thomas.holmpedersen@gmail.com"
+email = "m.farsoe@hotmail.com"
 
-hold = "Serie 2 + 4"
+hold = "1. hold / Jyllandserie"
 
 # Organizational groups that you belong to (for People widget)
 user_groups = ["Herre"]
 
-tlf = "23 64 18 77"
+tlf = "20 96 62 26"
 
-weight = 2
+weight = 1
 +++

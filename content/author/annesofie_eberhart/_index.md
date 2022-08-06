@@ -1,21 +1,21 @@
 +++
 # Display name
-name = "Thomas Holm Pedersen"
+name = "Anne-Sofie Eberhardt"
 
 # Is this the primary user of the site?
 superuser = false
 
 # Role/position
-role = "Træner"
+role = "Bestyrelsesmedlem"
 
-email = "thomas.holmpedersen@gmail.com"
+email = "fie.bang@gmail.com"
 
-hold = "Serie 1 + 2"
+hold = ""
 
 # Organizational groups that you belong to (for People widget)
-user_groups = ["Herre"]
+user_groups = ["Bestyrelse"]
 
-tlf = "23 64 18 77"
+tlf = "20 34 51 41"
 
-weight = 2
+weight = 10
 +++

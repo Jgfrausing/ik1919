@@ -1,21 +1,21 @@
 +++
 # Display name
-name = "Anne-Sofie Eberhardt"
+name = " Mathias Damsgaard Farsø"
 
 # Is this the primary user of the site?
 superuser = false
 
 # Role/position
-role = "Formand"
+role = "Træner"
 
-email = "fie.bang@gmail.com"
+email = "m.farsoe@hotmail.com"
 
-hold = ""
+hold = "3. hold / Serie 1"
 
 # Organizational groups that you belong to (for People widget)
-user_groups = ["Bestyrelse"]
+user_groups = ["Damer"]
 
-tlf = "20 34 51 41"
+tlf = "20 96 62 26"
 
-weight = 1
+weight = 4
 +++

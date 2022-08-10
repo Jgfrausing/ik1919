@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Jakob Strange"
+name = "Steffan Lynderup Tristram"
 
 # Is this the primary user of the site?
 superuser = false
@@ -8,13 +8,13 @@ superuser = false
 # Role/position
 role = "Træner"
 
-email = "jakob_strange@hotmail.dk"
+email = "steffantristram@gmail.com"
 
-hold = "5. + 6. hold / Serie 3 + 4"
+hold = "4.. hold / Serie 2"
 
 # Organizational groups that you belong to (for People widget)
 user_groups = ["Damer"]
 
-tlf = "81 71 02 28"
+tlf = "27 62 17 11"
 weight = 5
 +++

@@ -10,7 +10,7 @@ role = ""
 
 email = ""
 
-hold = ""
+hold = "1., 4., 5. og 6. hold"
 
 # Organizational groups that you belong to (for People widget)
 user_groups = ["Damer"]

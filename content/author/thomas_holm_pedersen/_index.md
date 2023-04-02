@@ -10,12 +10,12 @@ role = "Træner"
 
 email = "thomas.holmpedersen@gmail.com"
 
-hold = "Serie 1 + 2"
+hold = "Serie 2"
 
 # Organizational groups that you belong to (for People widget)
 user_groups = ["Herre"]
 
 tlf = "23 64 18 77"
 
-weight = 2
+weight = 3
 +++

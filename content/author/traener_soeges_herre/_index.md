@@ -1,21 +1,21 @@
 +++
 # Display name
-name = "Peter Sønderlund"
+name = "Træner søges"
 
 # Is this the primary user of the site?
 superuser = false
 
 # Role/position
-role = "Træner"
+role = ""
 
-email = "ps8sport(at)gmail.com"
+email = ""
 
-hold = "1. hold / 3. Division"
+hold = "2. hold"
 
 # Organizational groups that you belong to (for People widget)
-user_groups = ["Damer"]
+user_groups = ["Herre"]
 
-tlf = "22 50 12 42"
+tlf = ""
 
 weight = 2
 +++

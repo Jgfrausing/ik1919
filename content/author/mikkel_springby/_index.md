@@ -1,21 +1,21 @@
 +++
 # Display name
-name = "Christina Skriver Pedersen"
+name = "Mikkel Springby"
 
 # Is this the primary user of the site?
 superuser = false
 
 # Role/position
-role = "Bestyrelsesmedlem"
+role = "Træner"
 
-email = "christinaskriver@gmail.com"
+email = "springer1987@gmail.com"
 
-hold = ""
+hold = "2. hold / Jyllandserie"
 
 # Organizational groups that you belong to (for People widget)
-user_groups = ["Bestyrelse"]
+user_groups = ["Herre"]
 
-tlf = "28 60 68 33"
+tlf = "50 50 73 52"
 
-weight = 9
+weight = 2
 +++

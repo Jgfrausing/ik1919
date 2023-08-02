@@ -14,5 +14,5 @@ email = "jannie1706@gmail.com"
 user_groups = ["Bestyrelse"]
 
 tlf = "20 95 05 02"
-weight = 6
+weight = 9
 +++

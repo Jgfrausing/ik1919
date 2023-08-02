@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Karen Sofie Sloth Kristiansen"
+name = "Mads Thomsen"
 
 # Is this the primary user of the site?
 superuser = false
@@ -8,14 +8,14 @@ superuser = false
 # Role/position
 role = "Bestyrelsesmedlem"
 
-email = "karensofie-kristiansen@hotmail.com"
+email = "thomsen1505@gmail.com"
 
 hold = ""
 
 # Organizational groups that you belong to (for People widget)
 user_groups = ["Bestyrelse"]
 
-tlf = "23 98 78 73"
+tlf = "20 35 93 73"
 
-weight = 10
+weight = 6
 +++

@@ -1,21 +1,21 @@
 +++
 # Display name
-name = "Træner søges"
+name = "Kevin Bach"
 
 # Is this the primary user of the site?
 superuser = false
 
 # Role/position
-role = ""
+role = "Træner"
 
-email = ""
+email = "Kevinbach79@gmail.com"
 
-hold = "4., 5. og 6. hold"
+hold = "4. og 5. hold / Serie 2 og 3"
 
 # Organizational groups that you belong to (for People widget)
 user_groups = ["Damer"]
 
-tlf = ""
+tlf = "23 87 23 30"
 
 weight = 20
 +++
